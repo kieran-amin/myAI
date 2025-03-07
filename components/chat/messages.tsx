@@ -1,6 +1,6 @@
 import { DisplayMessage } from "@/types";
 import { motion } from "framer-motion";
-import Image from "next/image";
+import Image from "./Chatbot.png";
 import { Formatting } from "./formatting";
 import { LoadingIndicator } from "@/types";
 import Loading from "./loading";
